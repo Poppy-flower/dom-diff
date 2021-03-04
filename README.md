@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 项目说明
+
+1. src/js下面存放主要的代码
+2. js/element.js实现如何创建虚拟DOM 以及 将创建出来的虚拟DOM 渲染成真实DOM
+2. 
